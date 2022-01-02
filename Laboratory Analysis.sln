@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laboratory Analysis", "Laboratory Analysis\Laboratory Analysis.csproj", "{0A0A6C6A-FCC2-4C81-8E54-67341D431DDF}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup Laboratory Analysis", "Setup Laboratory Analysis\Setup Laboratory Analysis.vdproj", "{3C41D202-3F07-4A1C-9E61-CD651BE1BEB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A0A6C6A-FCC2-4C81-8E54-67341D431DDF}.Debug|x86.ActiveCfg = Debug|x86
+		{0A0A6C6A-FCC2-4C81-8E54-67341D431DDF}.Debug|x86.Build.0 = Debug|x86
+		{0A0A6C6A-FCC2-4C81-8E54-67341D431DDF}.Release|x86.ActiveCfg = Release|x86
+		{0A0A6C6A-FCC2-4C81-8E54-67341D431DDF}.Release|x86.Build.0 = Release|x86
+		{3C41D202-3F07-4A1C-9E61-CD651BE1BEB1}.Debug|x86.ActiveCfg = Debug
+		{3C41D202-3F07-4A1C-9E61-CD651BE1BEB1}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
